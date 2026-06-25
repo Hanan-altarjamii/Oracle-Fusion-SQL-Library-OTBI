@@ -189,4 +189,4 @@ ORDER BY
     esi.item_number,
     cd.org_name,
     oh.subinventory_code,
-    loc.LOCATOR_NAME;
+    loc.LOCATOR_NAME
